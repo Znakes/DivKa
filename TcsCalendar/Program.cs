@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
 
 namespace TcsCalendar
 {
@@ -7,6 +8,8 @@ namespace TcsCalendar
         static async Task Main(string[] args)
         {
             await new TcsDividendsCalendar().DisplayCalendar();
+
+            Console.ReadKey();
         }
     }
 }
