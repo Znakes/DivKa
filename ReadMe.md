@@ -1,7 +1,7 @@
 # Simple dividend calendar for Tinkoff Invest service
 ![.NET Core](https://github.com/Znakes/DivKa/workflows/.NET%20Core/badge.svg?branch=master)
 
-This is simple console calendar to track coupons dates of Tinkoff Invest broker.
+This is simple console calendar to track coupons in Tinkoff Invest broker.
 Currently supports only ru bonds.
 
 ## Install
